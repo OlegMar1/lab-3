@@ -6,7 +6,7 @@
 
 #pragma comment(lib,"ws2_32.lib")
 
-#define SERVER "192.168.0.105"
+#define SERVER "34.107.11.105"
 #define BUFLEN 512  
 #define PORT 8080  
 
